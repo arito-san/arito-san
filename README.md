@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 -->
   
 </div>
-  <div align="center"> 
+
+ <div align="center" padding='20'> 
  
   <a href="https://www.instagram.com/arito.san" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
@@ -60,3 +61,4 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<div></div>
