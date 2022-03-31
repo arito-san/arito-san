@@ -49,16 +49,13 @@ Here are some ideas to get you started:
   <img align="right" alt="Arito-pic" height="150" style="border-radius:50px;" src="">
 -->
   
-</div>
-
- <div align="center" padding='20'> 
+ </div>
+ <div align="center"> 
  
   <a href="https://www.instagram.com/arito.san" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
-  <a href = "mailto:tie.jr9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:tie.jr9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <!-- <a href="https://www.linkedin.com/in/{youraccount}" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  -->
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/arito-san/arito-san/blob/output/github-contribution-grid-snake.svg)
 </div>
-<div></div>
