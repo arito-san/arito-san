@@ -1,24 +1,9 @@
 ## Hi, i'm José Ari.
 
-<!--
-
-**arito-san/arito-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 i'm development
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I am an open-minded react native mobile developer who's ready for new challenges. 
-- I have spent most of my career in mobile and web development. I am very familiar with not only React native development but also back-end in Node.js with Express. 
-- On every project, my goal is to reach max efficiency, learn from every experience, and use both to improve the product.
-- 👨🏾‍🦱📱💻 
+- 👨🏾‍🦱  I am an open-minded react native mobile developer who's ready for new challenges. 
+- 💻 I have spent most of my career in mobile and web development. I am very familiar with not only React native development but also back-end in Node.js with Express. 
+- 📱 On every project, my goal is to reach max efficiency, learn from every experience, and use both to improve the product.
+  
 <div align="center">
   <a href="https://github.com/arito-san">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arito-san&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
